@@ -1,9 +1,9 @@
-#About me
+# About me
 
-##Introduction Hello! My name is Victoria, a software test engineer,
+## Introduction Hello! My name is Victoria, a software test engineer,
 located in Warsaw
 
-##Professional Backgroud I have experience in:
+## Professional Backgroud I have experience in:
  - **API testing**
  - **Mobile app testing** 
  - **Database testing**
