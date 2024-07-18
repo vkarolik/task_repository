@@ -1,2 +1,3 @@
 some content
 actions for step 4
+the first modification for the step 6
